@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BOLT",
+    "slug": "BOLT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
